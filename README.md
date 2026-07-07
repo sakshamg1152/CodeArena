@@ -1,4 +1,4 @@
-# 💻 MiniLeetCode
+# 💻 CodeArena
 
 A full-stack online coding platform inspired by LeetCode, built using the MERN stack. Users can browse coding problems, write solutions, execute code against custom test cases, and submit solutions for evaluation through an integrated online compiler.
 
@@ -67,7 +67,7 @@ MiniLeetCode
 ### Clone Repository
 
 ```bash
-git clone https://github.com/sakshamg1152/MiniLeetCode.git
+git clone https://github.com/sakshamg1152/CodeArena
 ```
 
 ### Install Frontend Dependencies
@@ -102,7 +102,15 @@ npm start
 
 ## 📸 Screenshots
 
-> Screenshots will be added soon.
+## 📸 Screenshots
+
+| Landing Page | Dashboard |
+|--------------|-----------|
+| ![Landing Page](screenshots/landing-page.png) | ![Dashboard](screenshots/dashboard.png) |
+
+| Problem Page | Submissions |
+|--------------|-------------|
+| ![Problem Page](screenshots/problem-page.png) | ![Submissions](screenshots/submissions.png) |
 
 ---
 
